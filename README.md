@@ -11,7 +11,7 @@
 - added alts to images in content boxes
 - added empty alts to images in right side benefits box, since they weren't important for accessibility.
 - consolidated multiple classes in content boxes that all had same css styles to one single class="content-article"
-- 
+- added favicon!
 
 
 ---> User Story
