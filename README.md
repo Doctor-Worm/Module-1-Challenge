@@ -50,7 +50,7 @@ Follow the instructions to submit your Challenge for review.
 ---> Grading Requirements
 This challenge is graded based on the following criteria:
 
-Technical Acceptance Criteria: 40%
+---> Technical Acceptance Criteria: 40%
 Satisfies all of the preceding acceptance criteria plus the following code improvements:
 
 Application's links all function correctly.
