@@ -1,4 +1,17 @@
 # Code Refactor Starter Code
+<-- Updates Made by Skylar Jackson -->
+- Made "Search Engine Optimization" nav link, actualy link down to corresponding box.
+- Updated title of website to be "Horiseon"
+- changed header "div" element to <header>
+- removed unnecessary class="header" from header. Adjusted the selectors in style.css for it.
+- renamed nav "div" to <nav> and adjusted selectors in style.css for it.
+- added comments and added space between sections to both index and css sheets for clarification when reading code
+- updated hero and content divs to be <section>
+- updated conent boxes to be <article>, not div.
+- added alts to images in content boxes
+- added empty alts to images in right side benefits box, since they weren't important for accessibility.
+- consolidated multiple classes in content boxes that all had same css styles to one single class="content-article"
+- 
 
 
 ---> User Story
