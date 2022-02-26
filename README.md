@@ -1,5 +1,21 @@
 # Code Refactor Starter Code
-<-- Updates Made by Skylar Jackson -->
+
+## **Goal:**
+### *To Refactor the previous code so that it follows accessibility standards and is optimized for search engines.*  
+
+___  
+
+<br>
+
+## Challenges Faced
+
+> - At first, I had trouble getting the updated website rendering correctly out of my remote repo. Everytime I tried loading the webiste, all I could see was the readme file. However after some troubleshooting, I was able to figure out that the indedx.html file needed to be at the first level, and not inside of another folder.
+> - I had some issues with merging my local files to the GitHub remote repo, so I ended up force pushing my local repo to the remote GitHub repo to make sure that everything rendered correctly. I knew my local repo was corect, so I was okay with force pushing to the remote repo. However it may have edited my commit history in doing so unfortuntaely. I did take note of everything I edited while refactoring, so hopefully this can help with the lake of commit history.
+> - I definitely got much more comfortable using git throughout this project.
+
+<br>
+
+## List of updates made by Skylar Jackson
 - Made "Search Engine Optimization" nav link, actualy link down to corresponding box.
 - Updated title of website to be "Horiseon"
 - changed header "div" element to <header>
@@ -13,77 +29,20 @@
 - consolidated multiple classes in content boxes that all had same css styles to one single class="content-article"
 - added favicon!
 
+<br>
 
----> User Story
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+___
 
+<br>
 
----> Acceptance Criteria
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+## *Here are links to the GitHub repository, the updated website, and a full screenshot of the website:*
 
+<br>
 
+- **[Link to the GitHub Repository](https://github.com/Doctor-Worm/Module-1-Challenge)**
 
----> Follow these steps to complete the challenge:
+- **[Module 1 Challenge Website Link](https://doctor-worm.github.io/Module-1-Challenge/)**
 
-Clone your starter code (Links to an external site.).
+<br>
 
-Refactor the code to meet the Acceptance Criteria.
-
-Make sure your work meets the full list of grading requirements.
-
-Follow the instructions to submit your Challenge for review.
-
-
-
----> Grading Requirements
-This challenge is graded based on the following criteria:
-
----> Technical Acceptance Criteria: 40%
-Satisfies all of the preceding acceptance criteria plus the following code improvements:
-
-Application's links all function correctly.
-
-Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
-
-Application's CSS file is properly commented.
-
-
-
----> Deployment: 32%
-Application deployed at live URL.
-
-Application loads with no errors.
-
-Application GitHub URL submitted.
-
-GitHub repository that contains application code.
-
-
-
----> Application Quality: 15%
-Application resembles (at least 90%) screenshots provided in challenge instructions.
-
-
-
----> Repository Quality: 13%
-Repository has a unique name.
-
-Repository follows best practices for file structure and naming conventions.
-
-Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-Repository contains multiple descriptive commit messages.
-
-Repository contains quality README file with description, screenshot, and link to deployed application.
+![Website Screenshot](/assets/images/Horiseon-Screenshot.png)
